@@ -1,4 +1,5 @@
 {
-    "require": {
-    }
+    "name": "your-username/user-directory",
+    "description": "Справочник пользователей",
+    "require": {}
 }
